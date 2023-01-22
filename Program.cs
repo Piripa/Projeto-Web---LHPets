@@ -21,3 +21,4 @@ public class Program
         app.Run();
     }
 }
+//Para deixar o projeto de forma que ele seja publicado em nuvem, hospedagem ou em qualquer lugar: dotnet publish -c Release
